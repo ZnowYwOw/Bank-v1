@@ -1,4 +1,4 @@
-# as-bank
+# AS-BANK
 
 Tilføj dette i din database
 
